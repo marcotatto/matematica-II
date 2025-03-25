@@ -73,15 +73,6 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    z-index: 1;
-    /* Garante que o conteúdo fica acima das imagens do background */
-}
-
 
 h2 {
     font-family: 'Lemon', serif;
