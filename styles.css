@@ -125,7 +125,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(130, 2, 250, 0.1);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
@@ -138,5 +138,5 @@ h2 {
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #ff00ff;
+    background-color: #a5a5a5;
 }
