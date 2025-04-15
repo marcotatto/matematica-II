@@ -82,12 +82,12 @@ h2 {
 }
 
 #galeria {
-    background-color: #f7f7f7;
+    background-color: #dfb600;
 
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url(img/) bottom right no-repeat;
     background-size: 180px 180px;
 }
 
